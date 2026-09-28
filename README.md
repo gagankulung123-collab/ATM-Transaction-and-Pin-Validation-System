@@ -1,7 +1,6 @@
 # ATM Transaction and PIN Validation System
 
 TECH 315 (Models of Computation) team project, King's College.
-Professor: Shreyanshu Devendra Kunwar
 
 ## About the Project
 This project uses automata theory to model an ATM. A DFA checks the PIN
