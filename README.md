@@ -1,4 +1,3 @@
-<img width="2720" height="2000" alt="DFA" src="https://github.com/user-attachments/assets/83545e93-85bb-41a7-8178-f3730e118db8" />
 # ATM Transaction and PIN Validation System
 
 TECH 315 (Models of Computation) team project, King's College.
